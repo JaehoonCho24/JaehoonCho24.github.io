@@ -11,7 +11,7 @@ profile:
   more_info: >
 
 news: false # includes a list of news items
-publications: true
+selected_papers: true
 social: true # includes social icons at the bottom of the page
 teaching: true
 ---
