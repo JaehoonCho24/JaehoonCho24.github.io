@@ -12,7 +12,7 @@ profile:
 
 news: false # includes a list of news items
 publications: true
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 teaching: true
 ---
 
