@@ -16,5 +16,7 @@ social: false # includes social icons at the bottom of the page
 teaching: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
+I am a Ph.D. candidate at Seoul National University, specializing in Electrical & Computer Engineering. 
+I am a member of Computer Architecture and Systems Lab (SNU-CompArch) under the guidance of Professor Jaewoong Sim. 
+My primary research interest lies in accelerators for AI systems, processing-in-memory, and IOMMU.
+I received my B.S degree from Seoul National University (2023).
